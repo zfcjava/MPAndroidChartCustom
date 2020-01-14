@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial8</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to Tutorial8</string>
+    <string name="goCheckOut_btn">Check Out</string>
+    <string name="goDoQuery_btn">Do Query</string>
+    <string name="showresult_btn">Show Result</string>
+    <string name="goBack_btn">Back to Main Page</string>
+    <string name="title_query">Query</string>
+    <string name="query_prompt">Choose a Query</string>
+</resources>

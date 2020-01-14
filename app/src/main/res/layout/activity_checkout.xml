@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:background="@color/color_333333"
+        android:gravity="center_vertical"
+        >
+        <TextView
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_title">
+
+        </TextView>
+    </LinearLayout>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="CHECKOUT RECORD"
+        android:layout_marginTop="56dp"
+        android:id="@+id/checkoutRecord">
+
+    </Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="CHECKOUT SUMMARY"
+        android:layout_marginTop="100dp"
+        android:id="@+id/checkoutSummary">
+
+    </Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="CHECKOUT RETURN"
+        android:layout_marginTop="100dp"
+        android:id="@+id/checkoutReturn">
+
+    </Button>
+</LinearLayout>

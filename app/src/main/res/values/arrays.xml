@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="query_array">
+    <item>Query 1</item>
+    <item>Query 2</item>
+    <item>Query 3</item>
+    <item>Query 4</item>
+    <item>Query 5</item>
+    <item>Query 6</item>
+    <item>Query 7</item>
+</string-array>
+</resources>
